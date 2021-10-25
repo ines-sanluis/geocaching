@@ -1,5 +1,7 @@
-Flask
-flask_cors
-requests
-beautifulsoup4
-selenium
+Flask==1.1.4
+flask_cors==3.0.10
+requests==2.26.0
+beautifulsoup4==4.9.3
+selenium==4.0.0
+flask-restplus==0.13.0
+werkzeug==0.16.1
